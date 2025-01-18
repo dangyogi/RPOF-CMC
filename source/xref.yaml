@@ -1,0 +1,71 @@
+# xref.yaml
+
+---
+
+reconsideration:
+
+  can not be reconsidered at all:
+    - adjourn
+    - close nominations
+    - close the polls immediately
+    - consider by paragraph or seriatim
+    - create a blank
+    - dispense sith the reading of the minutes
+    - division of a question
+    - division of the assembly, or ordering a rising vote counted
+    - extend time for consideration of pending question, or time until scheduled adjournment or recess
+    - parliamentary inquiry
+    - point of order
+    - proceed to the orders of the day
+    - raise a question of privilege
+    - recess
+    - reconsider
+    - request for information
+    - rise, or rise and report
+    - suspend the rules
+    - take from the table
+    - take up a question out of its proper order
+    - take up minutes after reading has been dispensed with
+
+  negative vote can not be reconsidered:
+    - postpone indefinitely
+
+  affirmative vote can not be reconsidered (although negative vote can be):
+    - accept resignation or grant request to be excused from a duty, if person was present or has been
+      notified
+    - adopt or amend agenda or program
+    - adopt or amend bylaws or constitution, rules of order, or any other rules that require previous
+      notice for their amendment
+    - amend something previously adopted
+    - arrange order of consideration of bylaw amendments
+    - authorize a motion outside society's object
+    - commit, if committee has begun work on referred matter
+    - consider informally
+    - declare the chair vacant
+    - discharge a committee
+    - election, if person elected was present and did not decline, or was absent but had consented to
+      candidancy, or had not consented to candidacy but has been notified and has not declined
+    - expulsion from membership or office, if person was present or has been officially notified
+    - grant permission to withdraw or modify a motion
+    - lay on the table
+    - objection to the consideration of a question
+    - order a recount, after recount has begun
+    - previous question, after any vote has been taken under it
+    - receive a report, after report has begun
+    - reopen the polls immediately
+    - rescind
+
+
+requires two thirds vote:
+  - adopt agenda or program at a session already having an order of business, if it contains special
+    orders or conflicts with the existing order of business
+  - ^adopt parliamentary authority in an organized society if the bylaws do not designate one,
+    previous notice also being required
+  - adopt parliamentary standing rules in a convention
+  - ^adopt special rules of order, previous notice also being required
+  - ^amend an adopted agenda or program
+  - ^amend or rescind adoped consitutution or bylaws containing no provision for own amendment,
+    previous notice also being required
+
+
+# vim: set sw=2 :

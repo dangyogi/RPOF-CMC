@@ -1,0 +1,9 @@
+/* user_defined.css */
+
+.del {
+  text-decoration: line-through;
+}
+
+.underline {
+  text-decoration: underline;
+}
