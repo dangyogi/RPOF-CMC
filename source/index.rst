@@ -14,7 +14,7 @@ As revised by the State Executive Board on May 4, 2024
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents:
 
    Article_I
    Article_II

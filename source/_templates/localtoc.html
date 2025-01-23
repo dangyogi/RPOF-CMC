@@ -1,0 +1,7 @@
+{# Sphinx sidebar template: local table of contents. #}
+<div>
+<h3><a href="{{ pathto(root_doc)|e }}">{{ _('Table of Contents') }}</a></h3>
+  {%- if display_toc %}
+    {{ toc }}
+  {%- endif %}
+</div>

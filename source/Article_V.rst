@@ -33,8 +33,6 @@ office may qualify for reinstatement and reimbursement, including attorney fees 
 under `Florida Statute 103.141`_. Removal shall be valid through the end of the respective
 member’s term of office.
 
-.. _Florida Statute 103.141: https://www.flsenate.gov/Laws/Statutes/2024/103.141
-
 .. index::
    single: removal; members exempt from
    single: State Committeemen and Committeewomen
@@ -55,6 +53,8 @@ This Section also does not apply to members of the State Legislature that reside
 and are ex officio members of the County Executive Committee pursuant to Florida law. State
 legislators may not be removed from the County Executive Committee during their legislative
 term of office.
+
+.. _Florida Statute 103.141: https://www.flsenate.gov/Laws/Statutes/2024/103.141
 
 .. index::
    single: removal; notice
