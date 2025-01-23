@@ -1,0 +1,9 @@
+{# Sphinx sidebar template: "Table of Contents" and "Index" links. #}
+
+<h5 class="toplinks-title">Maps</h5>
+<ul class="toplinks-menu">
+  <li><a href="{{ pathto('index') }}">{{ _('Table of Contents') }}</a></li>
+{%- if hasdoc('genindex') %}
+  <li><a href="{{ pathto('genindex') }}">{{ _('Index') }}</a></li>
+{%- endif %}
+</ul>

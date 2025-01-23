@@ -55,13 +55,13 @@ html_sidebars = {
   "**": [
        # 'sidebar/brand.html',
          'sidebar/search.html',
-         'indexlink.html', 
+         'toplinks.html', 
          'sidebar/scroll-start.html',
          'sidebar/navigation.html',
          'sidebar/ethical-ads.html',            # READTHEDOCS
+         'sidebar/scroll-end.html',
          'relations.html',
          'sourcelink.html', 
-         'sidebar/scroll-end.html',
          'sidebar/variant-selector.html',       # READTHEDOCS
         ]
 }

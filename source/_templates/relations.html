@@ -1,15 +1,15 @@
 {# Sphinx sidebar template: relation links. #}
 {%- if prev %}
   <div>
-    <h4>{{ _('Previous topic') }}</h4>
-    <p class="topless"><a href="{{ prev.link|e }}"
+    <h5>{{ _('Previous topic') }}</h5>
+    <p class="topless"><a class="relation-link" href="{{ prev.link|e }}"
                           title="{{ _('previous chapter') }}">{{ prev.title }}</a></p>
   </div>
 {%- endif %}
 {%- if next %}
   <div>
-    <h4>{{ _('Next topic') }}</h4>
-    <p class="topless"><a href="{{ next.link|e }}"
+    <h5>{{ _('Next topic') }}</h5>
+    <p class="topless"><a class="relation-link" href="{{ next.link|e }}"
                           title="{{ _('next chapter') }}">{{ next.title }}</a></p>
   </div>
 {%- endif %}
