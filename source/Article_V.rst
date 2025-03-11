@@ -7,12 +7,10 @@ ARTICLE V: REMOVAL FROM OFFICE
    single: officers; removal
    single: removal from office
    single: violation of rules
-   single: RPOF Constitution
-   single: Rules of Procedure
-   single: constitution
-   single: oath; violation
+   single: loyalty oath; violation
    single: reputational harm
    single: removal; wrongful
+   single: removal; notice of removal motion
    single: wrongful removal
 
 ----------------
@@ -25,22 +23,22 @@ present at any regular or special meeting after ten (10) days’ notice to the m
 County Executive Committee that a motion for the purpose of removal of a member or officer
 will be considered at a said meeting, provided that such two-thirds vote constitutes at least a
 majority of the full County Executive Committee. The removal shall be for cause that includes
-violation of rules, processes or procedures outlined in the Republican Party of Florida
-Constitution, Rules of Procedure, County Model Constitution, a violation of the Republican Party
+violation of rules, processes or procedures outlined in the `Republican Party of Florida
+Constitution`_, `Rules of Procedure`_, `County Model Constitution`_, a violation of the Republican Party
 of Florida Oath of Party Loyalty or reputational harm to the County Executive Committee or
 Republican Party of Florida. However, any person wrongfully removed for violation of oath of
 office may qualify for reinstatement and reimbursement, including attorney fees as provided
 under `Florida Statute 103.141`_. Removal shall be valid through the end of the respective
 member’s term of office.
 
+.. _Republican Party of Florida Constitution: /RPOF-STC
+.. _Rules of Procedure: /RPOF-ROP
+.. _County Model Constitution: /RPOF-CMC
+
 .. index::
    single: removal; members exempt from
-   single: State Committeemen and Committeewomen
-   single: State Executive Committee
-   single: grievance
-   single: tribunal by RPOF Board
-   single: RPOF Constitution
-   single: State Legislature
+   single: State Committeemen and Committeewomen; removal only through RPOF
+   single: State Committeemen and Committeewomen; grievance
 
 This Section does not apply to the County Chairman (in their role as Chairman or Precinct
 Committee member), the State Committeeman, or the State Committeewoman, such members
@@ -48,6 +46,9 @@ of the State Executive Committee may only be removed from office through the Rep
 of Florida Grievance process or by the Executive Board of the Republican Party of Florida
 Grievance process or by the Executive Board of the Republican Party of Florida while in session
 as a competent tribunal pursuant to the Republican Party of Florida Constitution.
+
+.. index::
+   single: State Legislature members; exempt from removal
 
 This Section also does not apply to members of the State Legislature that reside in the county
 and are ex officio members of the County Executive Committee pursuant to Florida law. State
@@ -70,6 +71,7 @@ the removal charge.
 
 .. index::
    single: office; vacancy
+   single: vacancy; cases
 
 ----------------
 Section 3
@@ -80,7 +82,7 @@ vacant in the following cases:
 
 (a) by the death of the incumbent;
 (b) by his or her resignation;
-(c) by his or her removal as set forth above in section 1;
+(c) by his or her removal as set forth above in `section 1`_;
 (d) by his or her ceasing to be a resident of the county, district or precinct for which
     he shall have been elected or appointed;
 (e) by his or her refusal to accept the office;
@@ -90,8 +92,7 @@ vacant in the following cases:
 (h) by his or her failure to maintain their Republican voter registration.
 
 .. index::
-   single: removal; non-attendance
-   single: non-attendance
+   pair: removal; non-attendance
 
 -----------------------------------------------------------------------------
 Section 4 Removal for Non-Attendance at County Executive Committee Meetings.
@@ -102,8 +103,11 @@ a) A county executive committee member who is absent for three (3) consecutive
    Committee as of the date of the third consecutive missed meeting.
 
 .. index::
-   single: non-attendance; excused
-   single: chairman
+   pair: non-attendance; excused absence
+   single: excused absence
+   single: excused absence; granted by majority vote
+   single: non-attendance; excused absence, granted by majority vote
+   single: excused absence; delegation of decision
 
 b) Prior to missing such third consecutive meeting, any member may request, in
    writing, that an absence be excused indicating the reason for such absence. A vote on excused
@@ -127,9 +131,9 @@ b) Prior to missing such third consecutive meeting, any member may request, in
         This may be rescinded at any time by a majority vote, or the Chairman.
 
 .. index::
-   single: no confidence not allowed
-   single: censure not allowed
-   single: straw poll not allowed
+   single: no confidence; not allowed
+   single: censure; not allowed
+   single: straw poll; not allowed
    single: officers; no confidence/censure/straw poll not allowed
    single: State Committeemen and Committeewomen; no confidence/censure/straw poll not allowed
    single: members; no confidence/censure/straw poll not allowed

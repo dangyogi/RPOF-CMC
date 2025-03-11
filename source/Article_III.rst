@@ -4,12 +4,10 @@ ARTICLE III: MEMBERSHIP
 
 .. index::
    single: County Executive Committee; members
-   single: County Executive Committee; by precinct
-   single: Committeemen and Committeewomen; precinct
-   single: Committeemen and Committeewomen; state
-   single: Committeemen and Committeewomen; State Legislature
-   single: State Committeemen and Committeewomen
-   single: State Legislature
+   single: County Executive Committee; Committeemen and Committeewomen by precinct
+   pair: members of County Executive Committee; Committemen and Committeewomen by precinct
+   pair: members of County Executive Committee; State Committeman and Committeewoman
+   pair: members of County Executive Committee; State Legislature members
 
 --------------
 Section 1
@@ -18,9 +16,11 @@ Section 1
 The County Executive Committee shall consist of one man and one woman,
 each being a registered Republican residing within each precinct. However, any precinct with
 more the 1000 registered voters shall have additional members in accordance with the provisions
-of the Rules of Procedure of the Republican Party of Florida.
+of the `Rules of Procedure` of the Republican Party of Florida.
 
-Pursuant to the State Party Constitution, the state committeeman and state committeewoman
+.. _Rules of Procedure: /RPOF-ROP
+
+Pursuant to the `State Party Constitution`_, the state committeeman and state committeewoman
 shall be voting members at large of the County Executive Committee for all purposes including
 the election of officers at the organizational meeting. In addition, pursuant to
 `F.S. 103.091(6)(a)1`_, each county executive committee shall include all members
@@ -29,13 +29,13 @@ residents of the county and members of their respective political party and who 
 as at-large committeemen and committeewomen. Each member of the committee shall be
 entitled to one (1) vote.
 
+.. _State Party Constitution: /RPOF-STC
+
 .. _F.S. 103.091(6)(a)1: https://www.flsenate.gov/Laws/Statutes/2024/103.091#:~:text=(6)(a)%E2%80%83In%20addition%20to%20the%20members%20provided%20for%20in%20subsection%20(1)%2C%20each%20county%20executive%20committee%20shall%20include%20all%20members%20of%20the%20Legislature%20who%20are%20residents%20of%20the%20county%20and%20members%20of%20their%20respective%20political%20party%20and%20who%20shall%20be%20known%20as%20at%2Dlarge%20committeemen%20and%20committeewomen.
 
-.. index::
-   single: district
-   single: Committeemen and Committeewomen; district
-   single: State Executive Committee; district
-   single: County Executive Committee; by district
+.. index:: district units
+   pair: members of County Executive Committee; Committemen and Committeewomen by district
+   single: County Executive Committee; Committeemen and Committeewomen by district
 
 -------------------------
 Section 2 DISTRICT UNITS
@@ -51,10 +51,11 @@ adopted, district representatives shall be elected in the same manner as precinc
 and committeewoman, and shall serve in place of precinct men and women.
 
 .. index::
-   single: vacancies
-   single: candidate oath
-   single: Committeemen and Committeewomen; vacancies
+   single: vacancy; defined
+   single: vacancy; filling
+   pair: Committeemen and Committeewomen; vacancy
    single: Committeemen and Committeewomen; candidate oath
+   single: candidate oath
 
 -------------------------
 Section 3 VACANCIES
@@ -72,9 +73,8 @@ the candidate oath has been filed as required under Article III `Section 5`_ of 
 Constitution.
 
 .. index::
-   single: vacancies; candidate can not be rejected for consideration
-   single: candidate; vacancies: can not be rejected for consideration
-   seealso: Committeemen and Committeewomen; candidate
+   single: vacancy; candidate can not be rejected for consideration
+   single: candidate; for vacancy can not be rejected for consideration
 
 No candidate for a vacancy on the committee who meets the registration and residence
 requirements and follows the rules of procedure prescribed for filling a vacancy can be rejected for
@@ -82,7 +82,8 @@ consideration by a membership committee, board, or officer of the County Executi
 such candidates must be voted upon by the County Executive Committee.
 
 .. index::
-   pair: Committeemen and Committeewomen; moves
+   see: relocates; moves
+   pair: Committeemen and Committeewomen; moves to a different precinct or district
 
 If a county committeeman or committeewoman moves from one precinct or district to another
 within the same county, and the new precinct or district has a vacancy, then the committeeman or
@@ -102,7 +103,7 @@ set forth above by a qualified member of the political party residing in the pre
 or district where the vacancy exists.
 
 .. index::
-   single: vacancies; not filled by County Executive Committee
+   single: vacancy; not filled by County Executive Committee
 
 --------------
 Section 4
@@ -115,12 +116,13 @@ vacancy by appointment, after giving sixty (60) days notice of his intention to 
 Chairman by registered mail.
 
 .. index::
-   single: candidate oath; filing
-   single: loyalty oath; filing
-   single: Committeemen and Committeewomen; candidate oath - filing
-   single: Committeemen and Committeewomen; loyalty oath - filing
+   single: candidate oath; filing requirements
+   single: loyalty oath; filing requirements
+   single: officers; filing requirements
+   single: members; filing requirements
+   single: Committeemen and Committeewomen; candidate oath - filing requirements
+   single: Committeemen and Committeewomen; loyalty oath - filing requirements
    single: election; filing requirements
-   single: State Executive Committee
    single: members; membership roster
    single: County Executive Committee; membership roster
 
@@ -133,19 +135,21 @@ shall file with the State Executive Committee and the Supervisor of Elections, t
 addresses of its officers and member within thirty (30) days of their election. A County Executive
 Committee member shall not be deemed a member until the candidate oath (pursuant to
 `F.S. 99.021`_) has been signed and filed in the office of the Supervisor of Elections and the
-Republican Party loyalty oath (pursuant to Rule 9) has been filed with the Chairman of the
+Republican Party loyalty oath (pursuant to `Rule 9`_) has been filed with the Chairman of the
 County Executive Committee, who shall cause the original Party loyalty oath to be forwarded
 to the Republican Party of Florida within thirty (30) days. After the organizational meeting
-required under Article IV of this Model Constitution, the list maintained by the State 
+required under `Article IV`_ of this Model Constitution, the list maintained by the State 
 Executive Committee, as supplemented monthly, shall constitute the official County
 Executive Committee membership roster.
 
 .. _F.S. 99.021: https://www.flsenate.gov/Laws/Statutes/2024/99.021
+.. _Rule 9: /RPOF-ROP/Rule_9.html
+.. _Article IV: Article_IV.html
 
 .. index::
-   single: loyalty oath; filing
-   single: loyalty oath; witnessed
-   single: loyalty oath; notarized
+   single: loyalty oath; filing requirement
+   single: loyalty oath; witnessing requirement
+   single: Committeemen and Committeewomen; loyalty oath - filing requirements
    see: Republican Party of Florida; State Executive Committee
 
 --------------
@@ -158,10 +162,9 @@ or his or her designee shall forward the original signed oath to the Republican 
 required under `Section 5`_ above. The oath or affirmation may be witnessed rather than notarized.
 
 .. index::
-   single: alternate county committee member
-   single: officers
-   single: County Executive Board; officers
-   single: State Executive Board
+   single: alternate members
+   single: officers; alternate members not eligible, and exceptions
+   single: County Executive Committee; alternate members
 
 --------------
 Section 7
@@ -177,14 +180,13 @@ Executive Board.
 
 .. index::
    single: County Executive Committee; County Executive Board
-   single: officers
-   single: County Executive Board; members
+   pair: officers; members of County Executive Board
+   pair: County Executive Board; members
+   pair: County Executive Board; General Council
    see: Executive Board; County Executive Board
    see: Board; County Executive Board
    see: County Chairman; chairman
-   single: chairman
-   single: General Council
-   single: State Committeemen and Committeewomen
+   pair: State Committeemen and Committeewomen; members of County Executive Board
 
 ------------------------------------
 Section 8 COUNTY EXECUTIVE BOARD
@@ -198,9 +200,8 @@ member of the County Executive Board.
 
 .. index::
    single: County Executive Board; duties
-   single: County Executive Board; subject to orders orders of the County Executive Committee
-   pair: Party Rules; County Executive Board
-   pair: County Executive Committee; County Executive Board
+   single: County Executive Board; subject to orders of the County Executive Committee
+   single: County Executive Board; shall not conflict with acts taken by County Executive Committee
 
 The Executive Board shall have general supervision of the affairs of the County Executive Committee
 between its meetings, make recommendations to the County Executive Committee, and shall
@@ -209,10 +210,7 @@ of the County Executive Committee, and none of its acts shall conflict with acti
 Executive Committee.
 
 .. index::
-   single: County Executive Board; meetings
-   single: County Executive Board; meetings, special
-   single: chairman
-   see: chair; chairman
+   single: County Executive Board; calling special meetings
 
 Meetings of the Executive Board shall be called by the Chairman. Special meetings of the Board
 may be called by the Chairman. Special meetings of the Executive Board shall be called by the
@@ -224,4 +222,6 @@ Chairman upon the written request by a majority of the members of the Board.
 Regular and Special meetings of the Executive Board shall require 10 days’ notice unless
 unanimously waived by the Executive Board or in the event of the Executive Board meeting for a
 determination of emergency or extraordinary circumstances for purposes of considering an
-Untimely Resolution per Article VII, Section 12, Paragraph B.
+Untimely Resolution per `Article VII, Section 12, Paragraph B`_.
+
+.. _Article VII, Section 12, Paragraph B: Article_VII.html#untimely-resolutions

@@ -4,8 +4,7 @@ ARTICLE XI: RULES OF PROCEDURE
 
 .. index::
    single: Rules of Procedure; County Executive Committee
-   single: Party Rules
-   single: constitution
+   single: Rules of Procedure; adopting
 
 Rules of procedure as to the establishment of an Executive Board, number of committee
 meetings, not less than six each calendar year including one each quarter, and any other activities

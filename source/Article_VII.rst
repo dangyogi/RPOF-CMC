@@ -5,14 +5,17 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
 .. role:: del
 
 .. index::
-   single: amendments
-   single: constitution
+   single: constitution; adopt
+   single: constitution; review
+   single: constitution; filing
+   single: constitution; term
+   single: RPOF amendments
 
 1. :del:`To adopt a constitution by two-thirds (2/3) vote of the full committee. County
    constitutions shall be reviewed and adopted at the beginning of each four year term.
    If a County Executive Committee fails to adopt and file with the Republican Party of
    Florida a County Constitution that is not in conflict with (a) Florida Statutes, or (b)
-   the Constitution of the Republican Party of Florida, or (c) the Rules of Procedure of
+   the` `Constitution of the Republican Party of Florida`_`, or (c) the` `Rules of Procedure`_` of
    the Republican Party of Florida or (d) this County Model Constitution, the County Model
    Constitution herein presented shall prevail.
    The adopted Constitution shall be in effect for the members’ four year term of office unless
@@ -20,15 +23,20 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
 
    *[This amendment shall take effect December 1, 2024]*.
 
+.. _Rules of Procedure: /RPOF-ROP
+.. _Constitution of the Republican Party of Florida: /RPOF-STC
+
 .. index::
-   single: bylaws
-   single: constitution
-   single: RPOF Constitution
-   single: Rules of Procedure
+   single: bylaws; adopt
+   single: bylaws; conflicts
 
 2. To adopt such bylaws as they may deem necessary by majority vote of the full
-   committee. Such By-laws may not be in conflict with Florida Statutes, the RPOF Constitution, the
-   RPOF Rules of Procedure, or the Model County Constitution.
+   committee. Such By-laws may not be in conflict with Florida Statutes, the `RPOF Constitution`_, the
+   `RPOF Rules of Procedure`_, or the `Model County Constitution`_.
+
+.. _RPOF Constitution: /RPOF-STC
+.. _RPOF Rules of Procedure: /RPOF-ROP
+.. _Model County Constitution: /RPOF-CMC
 
 .. index::
    single: meetings
@@ -75,10 +83,12 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
 .. index::
    single: chairman; liable
    single: treasurer; liable
-   single: funds
-   single: audit committee
+   single: funds; accountability
+   single: audit committee; review of financial transactions
    single: treasurer; records
-   single: audits
+   pair: audits; records
+   single: audits; end of year
+   single: audits; filing
 
 8. The chairman and treasurer of a County Executive Committee shall be accountable for
    the funds of such committee and jointly liable for their proper expenditure for authorized purposes
@@ -104,7 +114,7 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
    and State Committeeman.
 
    .. index::
-      single: audits; annual
+      single: audits; annual report
       single: audit committee; membership term
 
    After the annual audit has been completed, the Audit Committee shall provide a report on the
@@ -116,7 +126,7 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
    two-year terms of the Officers of the County Executive Committee.
 
    .. index::
-      single: audit committee; no disclosure
+      single: audit committee; members not to disclose
 
    By accepting an appointment to the Audit Committee of the County Executive Committee, the
    committee members agree not to disclose any of the financial records of the County Executive
@@ -126,7 +136,7 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
 .. index::
    single: meetings; filing minutes
    single: meetings; filing attendance
-   single: chairman
+   single: chairman; filing requirements
 
 9. The chairman of each county Executive Committee shall, within thirty (30) days
    following each regular or special meeting of the committee, furnish the State Executive
@@ -135,8 +145,8 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
    excuse the absences of its membership.
 
 .. index::
-   single: contributions and expenditures report
-   single: chairman
+   single: report; contributions and expenditures
+   single: chairman; filing requirements
 
 10. The chairman of the County Executive Committee shall furnish the State Executive
     Committee, within thirty (30) days of filing, a copy of the coversheet report of contributions and
@@ -162,6 +172,7 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
 
     .. index::
        single: resolutions; getting on agenda
+       single: agenda; resolutions
 
     A. Resolutions with Prior Notice
        Any proposed resolution shall be submitted in writing to the Chairman of the Republican
@@ -180,6 +191,8 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
     .. index::
        single: resolutions; untimely
        single: resolutions; emergency or extraordinary circumstances
+
+    .. _Untimely Resolutions:
 
     B. Untimely Resolutions
        Any proposed resolution not timely submitted under paragraph (A) may only be considered under

@@ -3,13 +3,15 @@ ARTICLE IV: ORGANIZATIONAL MEETING AND ELECTION OF OFFICERS
 =============================================================
 
 .. index::
-    pair: election; officers
-    single: officers; term
-    single: State Executive Committee
-    single: chairman
-    single: organizational meeting
-    single: meetings; organizational
-    single: County Executive Committee; election of officers
+   pair: election; officers
+   single: chairman; calling organizational meeting
+   single: organizational meeting; calling the meeting
+   single: organizational meeting; purpose
+   single: organizational meeting; chairman
+   single: organizational meeting; elections
+   single: organizational meeting; filling of vacancies
+   single: meetings; organizational
+   single: County Executive Committee; election of officers
 
 --------------
 Section 1
@@ -24,6 +26,15 @@ Executive Committee. Thereafter, the new chairman shall preside, and the agenda 
 but not limited to, the election of a secretary and a treasurer, the filing of any vacancies on the
 committee, and any other business which may appropriately come before the committee.
 
+.. note::
+   Apparently, the organizational meeting is only every four years (on the years of a U.S. Presidential election), as these
+   are the years that the "committee members take office".
+
+.. index::
+   pair: officers; term
+   single: County Executive Committee; term of officers
+   single: officers; elections at organizational meetings are final
+
 The above officers shall be members of the County Executive Committee, and all county party
 officers shall be elected for a two year term until the next organizational meeting. At the
 conclusion of each two year term officers shall be elected in the same manner as is required at
@@ -31,11 +42,8 @@ the organizational meeting. Officer elections held at the organizational meeting
 not subject to recall.
 
 .. index::
-    single: sub-committees
-    single: chairman
-    single: constitution
-    single: bylaws
-    single: County Executive Committee; sub-committees
+   single: subcommittees; how created
+   single: County Executive Committee; subcommittees
 
 --------------
 Section 2
@@ -50,10 +58,10 @@ committees appointed. Other ad hoc committees and their chairmen may be appointe
 Chairman without approval of the County Executive Committee.
 
 .. index::
-    single: election of officers
-    single: vacancies
-    single: nominations
-    single: ballots
+   single: election of officers; method of voting
+   single: vacancy; method of voting
+   single: nominations; all nominations shall be from the floor
+   single: ballots; election of officers and filling of vacancies
 
 --------------
 Section 3
@@ -65,7 +73,7 @@ unanimous vote of the membership present and eligible to vote. All nominations s
 the floor. No ballot shall be preprinted with the name of any candidate.
 
 .. index::
-    single: presiding officer
+   single: presiding officer; determination
 
 --------------
 Section 4
@@ -77,8 +85,8 @@ preside. If none of the said officers are present, the membership, by a majority
 the presiding officer.
 
 .. index::
-    single: chairman; unable to continue his duties
-    single: chairman; vacancy
+   single: chairman; unable to continue his duties
+   single: chairman; vacancy
 
 --------------
 Section 5
@@ -91,9 +99,8 @@ be filled by the majority vote of a quorum present at the duly called meeting of
 Executive Committee.
 
 .. index::
-    single: officers; holding more than one position
-    single: State Committeemen and Committeewomen; holding more than one position
-    single: State Executive Board
+   single: chairman; holding more than one position
+   single: State Committeemen and Committeewomen; holding more than one position
 
 --------------
 Section 6

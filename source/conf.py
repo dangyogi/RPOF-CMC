@@ -6,14 +6,16 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'PCREC'
+project = 'RPOF-CMC'
 #copyright = '2025, Bruce Frederiksen'
 author = 'Bruce Frederiksen'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = [
+#    'sphinx.ext.autosectionlabel',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
