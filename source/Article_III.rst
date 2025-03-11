@@ -6,10 +6,11 @@ ARTICLE III: MEMBERSHIP
    single: County Executive Committee; members
    single: County Executive Committee; by precinct
    single: Committeemen and Committeewomen; precinct
-   single: Committeemen and Committeewomen; state
-   single: Committeemen and Committeewomen; State Legislature
-   single: State Committeemen and Committeewomen
-   single: State Legislature
+   see: Precinct Committeemen and Committeewomen; Committeemen and Committeewomen
+   seealso: Committeemen and Committeewomen; members
+   seealso: Committeemen and Committeewomen; State Committeemen and Committeewomen
+   single: State Committeemen and Committeewomen; are members of County Executive Committee
+   single: State Legislature; are members of County Executive Committee
 
 --------------
 Section 1
@@ -34,8 +35,10 @@ entitled to one (1) vote.
 .. index::
    single: district
    single: Committeemen and Committeewomen; district
+   see: District Committeemen and Committeewomen; Committeemen and Committeewomen
    single: State Executive Committee; district
    single: County Executive Committee; by district
+   single: Supervisor of Elections; districts
 
 -------------------------
 Section 2 DISTRICT UNITS
@@ -55,6 +58,7 @@ and committeewoman, and shall serve in place of precinct men and women.
    single: candidate oath
    single: Committeemen and Committeewomen; vacancies
    single: Committeemen and Committeewomen; candidate oath
+   single: Supervisor of Elections; recording
 
 -------------------------
 Section 3 VACANCIES
@@ -103,6 +107,10 @@ or district where the vacancy exists.
 
 .. index::
    single: vacancies; not filled by County Executive Committee
+   single: Committeeman or Committeewoman; not elected
+   single: State Executive Committee Chairman; appointment of members
+   single: members: appointment
+   pair: appointment; notice
 
 --------------
 Section 4
@@ -120,9 +128,11 @@ Chairman by registered mail.
    single: Committeemen and Committeewomen; candidate oath - filing
    single: Committeemen and Committeewomen; loyalty oath - filing
    single: election; filing requirements
-   single: State Executive Committee
+   single: State Executive Committee; filing
+   single: State Executive Committee; membership roster
    single: members; membership roster
    single: County Executive Committee; membership roster
+   single: Supervisor of Elections; filing
 
 --------------
 Section 5
@@ -136,10 +146,11 @@ Committee member shall not be deemed a member until the candidate oath (pursuant
 Republican Party loyalty oath (pursuant to Rule 9) has been filed with the Chairman of the
 County Executive Committee, who shall cause the original Party loyalty oath to be forwarded
 to the Republican Party of Florida within thirty (30) days. After the organizational meeting
-required under Article IV of this Model Constitution, the list maintained by the State 
+required under `Article IV`_ of this Model Constitution, the list maintained by the State 
 Executive Committee, as supplemented monthly, shall constitute the official County
 Executive Committee membership roster.
 
+.. _Article IV: Article_IV.html
 .. _F.S. 99.021: https://www.flsenate.gov/Laws/Statutes/2024/99.021
 
 .. index::
