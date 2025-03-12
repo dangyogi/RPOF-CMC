@@ -2,11 +2,10 @@
 ARTICLE II: OBJECTIVES
 ==========================
 
-.. index:
-   single: polical party
-   single: purposes
-   single: objectives
-   single: Committeeman and Committeewomen; election
+.. index: objectives
+   see: purposes; objectives
+   see: mission; objectives
+   see: aims; objectives
 
 General purposes of this organization as a “political party” are to achieve the following objectives
 and aims:
