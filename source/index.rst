@@ -6,7 +6,13 @@
 RPOF County Model Constitution
 ===============================
 
-As revised by the State Executive Board on May 4, 2024
+As approved by the State Executive Committee on January 11, 2025
+
+.. admonition:: Changes
+
+   * Article VII(1): Amendment markup removed, no change in final text, except renumbering of
+     following sections
+   * Article IX: Amendment markup removed, no change in final text
 
 .. Add your content using ``reStructuredText`` syntax. See the
    `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_

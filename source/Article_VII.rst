@@ -5,32 +5,10 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
 .. role:: del
 
 .. index::
-   single: constitution; adopt
-   single: constitution; review
-   single: constitution; filing
-   single: constitution; term
-   single: RPOF amendments
-
-1. :del:`To adopt a constitution by two-thirds (2/3) vote of the full committee. County
-   constitutions shall be reviewed and adopted at the beginning of each four year term.
-   If a County Executive Committee fails to adopt and file with the Republican Party of
-   Florida a County Constitution that is not in conflict with (a) Florida Statutes, or (b)
-   the` `Constitution of the Republican Party of Florida`_`, or (c) the` `Rules of Procedure`_` of
-   the Republican Party of Florida or (d) this County Model Constitution, the County Model
-   Constitution herein presented shall prevail.
-   The adopted Constitution shall be in effect for the members’ four year term of office unless
-   revised.`
-
-   *[This amendment shall take effect December 1, 2024]*.
-
-.. _Rules of Procedure: /RPOF-ROP
-.. _Constitution of the Republican Party of Florida: /RPOF-STC
-
-.. index::
    single: bylaws; adopt
    single: bylaws; conflicts
 
-2. To adopt such bylaws as they may deem necessary by majority vote of the full
+1. To adopt such bylaws as they may deem necessary by majority vote of the full
    committee. Such By-laws may not be in conflict with Florida Statutes, the `RPOF Constitution`_, the
    `RPOF Rules of Procedure`_, or the `Model County Constitution`_.
 
@@ -45,7 +23,7 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
    single: meetings; calling
    single: meetings; notice
 
-3. To conduct regularly scheduled meetings as required under this constitution. Special
+2. To conduct regularly scheduled meetings as required under this constitution. Special
    meetings may be called by the Chairman, Vice Chairman or upon signed petition of 40% of the
    membership of the County Executive Committee, provided there is written notice of ten (10) days
    given to all members of the County Executive Committee and the subject of the special meeting is
@@ -59,18 +37,18 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
 .. index::
    single: party nominations
 
-4. To make party nominations when required by law.
+3. To make party nominations when required by law.
 
 .. index::
    single: conduct campaigns
 
-5. To conduct campaigns for Republican state or local candidates selected by the
+4. To conduct campaigns for Republican state or local candidates selected by the
    party at the final primary election.
 
 .. index::
    single: funds
 
-6. To raise and expend party funds for the maintenance and administration of the
+5. To raise and expend party funds for the maintenance and administration of the
    county party organization. However, that no funds may be spent by a committee except for bona
    fide services or material rendered to and received by the committee for the advancement of the
    party organization.
@@ -78,7 +56,7 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
 .. index::
    single: subcommittees
 
-7. To approve the necessary subcommittees.
+6. To approve the necessary subcommittees.
 
 .. index::
    single: chairman; liable
@@ -90,7 +68,7 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
    single: audits; end of year
    single: audits; filing
 
-8. The chairman and treasurer of a County Executive Committee shall be accountable for
+7. The chairman and treasurer of a County Executive Committee shall be accountable for
    the funds of such committee and jointly liable for their proper expenditure for authorized purposes
    only. All financial transactions may be reviewed by the County Executive Committee’s audit
    committee regularly. The treasurer of the County Executive Committee shall maintain accurate
@@ -138,7 +116,7 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
    single: meetings; filing attendance
    single: chairman; filing requirements
 
-9. The chairman of each county Executive Committee shall, within thirty (30) days
+8. The chairman of each county Executive Committee shall, within thirty (30) days
    following each regular or special meeting of the committee, furnish the State Executive
    Committee of the Republican Party a copy of the minutes of such meeting, along with a report
    showing the record of attendance of the meeting and any action taken by the committee to
@@ -148,21 +126,21 @@ ARTICLE VII: POWERS AND DUTIES OF THE EXECUTIVE COMMITTEE
    single: report; contributions and expenditures
    single: chairman; filing requirements
 
-10. The chairman of the County Executive Committee shall furnish the State Executive
+9. The chairman of the County Executive Committee shall furnish the State Executive
     Committee, within thirty (30) days of filing, a copy of the coversheet report of contributions and
     expenditures required by `F.S. 106.29`_.
 
 .. index::
    single: audit committee
 
-11. Each County Executive Committee shall annually appoint an audit committee from
+10. Each County Executive Committee shall annually appoint an audit committee from
     among its members. The Audit committee shall perform an audit of the financial affairs of such
     County Executive Committee and cause the same to be made public.
 
 .. index::
    single: resolutions
 
-12. To adopt resolutions of the Republican Executive Committee in the manner
+11. To adopt resolutions of the Republican Executive Committee in the manner
     prescribed by this Section:
 
     .. note::
